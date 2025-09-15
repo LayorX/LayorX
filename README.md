@@ -25,6 +25,8 @@
 你選擇了邏輯之路。腳下的地面凝固成電路。在這裡，想法被鍛造成可運作的結構。  
 在基座上，你看到了幾個已完成的構念：
   [\深入分析...\\](layorx.github.io/)
+  [\文字沉浸...\\](https://layorx.github.io/novel_site/index.html)
+
 
 
 [\[返回根目錄\]](#home)
@@ -54,6 +56,8 @@
 *   **語言工具組**: JavaScript, Python, HTML/CSS
 *   **技術工具組**: Web 開發, 自動化腳本, AI 應用, UI/UX 設計
 *   **創作工具組**: 小說寫作, 影片製作
+
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=layorx&theme=vue-dark&line_height=22&layout=compact&hide=less" />
 
 </details>
 
@@ -88,7 +92,7 @@
 
 [\[返回根目錄\]](#home)
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=layorx&theme=vue-dark&line_height=22&layout=compact&hide=less" />
+
 
 
 
