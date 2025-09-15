@@ -21,7 +21,7 @@
 * [\> `cat system.log`](#-系統日誌-systemlog) (查看開發者日誌)
 
 ### <a id="logic_constructs"></a>🧭 **邏輯之路 (./logic_constructs)**
-[邏輯之路](./pic/logic_constructs.jpg)
+![邏輯之路](./pic/logic_constructs.jpg)
 你選擇了邏輯之路。腳下的地面凝固成電路。在這裡，想法被鍛造成可運作的結構。  
 在基座上，你看到了幾個已完成的構念：
   [\深入分析...\\](layorx.github.io/)
@@ -30,7 +30,7 @@
 [\[返回根目錄\]](#home)
 
 ### <a id="creative_core"></a>🌳 **創意之核 (./creative_core)**
-[創意之核](./pic/creative_core.jpg)
+![創意之核](./pic/creative_core.jpg)
 
 你進入了創意之核。空氣中瀰漫著故事與可能性。奇異而美麗的創作在此處綻放。  
 你遇到了兩種奇特的現象：
@@ -44,7 +44,7 @@
 [\[返回根目錄\]](#home)
 
 ### <a id="inventory"></a>🎒 **行囊 (./inventory)**
-[行囊](./pic/inventory.jpg)
+![行囊](./pic/inventory.jpg)
 
 你執行了 `inventory list` 指令，行囊中顯示出以下物品：
 <details>
@@ -60,7 +60,7 @@
 [\[返回根目錄\]](#home)
 
 ### <a id="contact"></a>📡 **聯繫 (./contact)**
-[聯繫](./pic/contact.jpg)
+![聯繫](./pic/contact.jpg)
 
 
 你從這個數位空間向外發送了一個訊號。
@@ -73,7 +73,7 @@
 [\[返回根目錄\]](#home)
 
 ### <a id="system_log"></a>📝 **系統日誌 (./system.log)**
-[系統日誌](./pic/contact.jpg)
+![系統日誌](./pic/contact.jpg)
 
 你執行了 `cat system.log` 指令，一份開發者日誌被讀取出來：
 <details>
