@@ -25,8 +25,9 @@
 你選擇了邏輯之路。腳下的地面凝固成電路。在這裡，想法被鍛造成可運作的結構。  
 在基座上，你看到了幾個已完成的構念：
 
-  [\深入分析...\\](https://layorx.github.io/)
-  [\文字沉浸...\\](https://layorx.github.io/novel_site/index.html)
+[\深入分析...\\](https://layorx.github.io/)
+
+[\文字沉浸...\\](https://layorx.github.io/novel_site/index.html)
 
 
 
@@ -37,12 +38,11 @@
 
 你進入了創意之核。空氣中瀰漫著故事與可能性。奇異而美麗的創作在此處綻放。  
 你遇到了兩種奇特的現象：
-*    **女神慾見 (GoddeSpark)** 一個失控的實驗，演算法在此處學會了何謂「美」，並不斷自我衍生。  
+.\ **女神慾見 (GoddeSpark)** 一個失控的實驗，演算法在此處學會了何謂「美」，並不斷自我衍生。  
 [\觀察實驗...\\](https://goddespark.netlify.app)
 
-*    **思辨宇宙 (Thinking Verse)** 為理性討論而生的平台概念。  
+.\ **思辨宇宙 (Thinking Verse)** 為理性討論而生的平台概念。  
 [\概念導覽...\\](https://layorx.github.io/TKVv0.html)
-
 [\Demo...\\](https://rational-community-platform-440990936442.us-west1.run.app/)
     
 
