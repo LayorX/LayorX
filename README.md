@@ -15,10 +15,10 @@
 你的下一個指令是？
 
 * [\> `cd logic_constructs`](#logic_constructs) (探索技術與建構成就)
-* \> `cd creative_core` (深入故事與創作核心)
-* \> `inventory list` (查看我的技能組合)
-* \> `contact --all` (嘗試「聯繫」外部世界)
-* \> `cat system.log` (查看開發者日誌)
+* [\> `cd creative_core`](#-創意之核-creative_core) (深入故事與創作核心)
+* [\> `inventory list`](#-行囊-inventory) (查看我的技能組合)
+* [\> `contact --all`](#-聯繫-contact) (嘗試「聯繫」外部世界)
+* [\> `cat system.log`](#-系統日誌-systemlog) (查看開發者日誌)
 
 ### <a id="logic_constructs"></a>🧭 邏輯之路 (./logic_constructs)
 
