@@ -77,7 +77,7 @@
 [\[返回根目錄\]](#home)
 
 ### <a id="system_log"></a>📝 **系統日誌 (./system.log)**
-![系統日誌](./pic/contact.jpg)
+![系統日誌](./pic/system.jpg)
 
 你執行了 `cat system.log` 指令，一份開發者日誌被讀取出來：
 <details>
