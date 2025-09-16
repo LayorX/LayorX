@@ -74,7 +74,7 @@
 
 你從這個數位空間向外發送了一個訊號。
 
-* [\發送一封加密郵件...\\](layorx.github.io/#contact)  
+* [\發送一封加密郵件...\\](https://layorx.github.io/#contact)  
 * [\打開一個通往 YouTube 的傳送門...\\](https://www.youtube.com/@Realfaker-2007)
 
 
