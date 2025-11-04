@@ -8,12 +8,12 @@
   <a href="./README.md">
     <img src="https://img.shields.io/badge/Home-black?style=for-the-badge&logo=homeassistant" alt="Home"/>
   </a>&nbsp;
-  <a href="./README01.md">
-    <img src="https://img.shields.io/badge/Terminal-blue?style=for-the-badge&logo=gnometerminal" alt="Terminal"/>
+  <a href="./README.terminal.md">
+    <img src="https://img.shields.io/badge/Terminal-blue?style=for-the-badge&logo=educative" alt="terminal"/>
   </a>
   &nbsp;
-  <a href="#">
-    <img src="https://img.shields.io/badge/Coming_Soon-grey?style=for-the-badge&logo=remedyentertainment" alt="coming soon"/>
+  <a href="./README.lively.md">
+    <img src="https://img.shields.io/badge/lively-blueviolet?style=for-the-badge&logo=platformio" alt="lively"/>
   </a>
   &nbsp;
   <a href="#">

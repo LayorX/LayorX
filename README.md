@@ -10,11 +10,11 @@
   <a href="./README.md">
     <img src="https://img.shields.io/badge/Home-black?style=for-the-badge&logo=homeassistant" alt="Home"/>
   </a>&nbsp;
-  <a href="./README01.md">
-    <img src="https://img.shields.io/badge/Terminal-blue?style=for-the-badge&logo=educative" alt="Terminal"/>
+  <a href="./README.terminal.md">
+    <img src="https://img.shields.io/badge/Terminal-blue?style=for-the-badge&logo=educative" alt="terminal"/>
   </a>
   &nbsp;
-  <a href="./README.a.md">
+  <a href="./README.lively.md">
     <img src="https://img.shields.io/badge/lively-blueviolet?style=for-the-badge&logo=platformio" alt="lively"/>
   </a>
   &nbsp;
