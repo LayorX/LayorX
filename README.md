@@ -30,6 +30,11 @@
 ---
 
 ### `Contribution Snake`
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=layorx&show_icons=true&theme=synthwave" alt="LayorX's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=layorx&layout=compact&theme=synthwave" alt="LayorX's Top Languages"/>
+</p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/LayorX/LayorX/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
 </p>
