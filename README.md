@@ -46,6 +46,7 @@
 | `Personal Portfolio` | My digital identity and professional overview. | [layorx.github.io](https://layorx.github.io) |
 | `Creative Sandbox` | A collection of simple, creative HTML concepts. | [show.zeabur.app](https://show.zeabur.app) |
 | `Project: GoddeSpark` | An AI-powered image generation and sharing platform. | [goddespark.netlify.app](https://goddespark.netlify.app) |
+| `GGPoker Hand Analyzer` | 一個免費、注重隱私的 GGPoker 手牌網頁分析器，提供關鍵數據統計與視覺化圖表，作為專業追蹤軟體的輕量化替代方案。 | [ggpokerAnalyzer](https://layorx.github.io/ggpokerAnalyzer/index.html) |
 
 ---
 
