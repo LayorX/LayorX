@@ -29,12 +29,9 @@
 
 ---
 
-### `GitHub Stats`
-<!--
+### `Contribution Snake`
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=layorx&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" alt="LayorX's GitHub Stats"/>-->
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=layorx&layout=compact&langs_count=8&theme=vue-dark" alt="LayorX's Top Languages"/>
+  <img src="https://raw.githubusercontent.com/LayorX/LayorX/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
 </p>
 
 ---
