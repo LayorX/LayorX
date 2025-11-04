@@ -1,0 +1,19 @@
+<svg width="580" height="120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="scanline" x1="-100%" y1="0" x2="0%" y2="0">
+      <stop stop-color="#363636" offset="0%"/>
+      <stop stop-color="white" offset="50%"/>
+      <stop stop-color="#363636" offset="100%"/>
+      <animate attributeName="x1" from="-100%" to="100%" dur="3s" repeatCount="indefinite"/>
+      <animate attributeName="x2" from="0%" to="200%" dur="3s" repeatCount="indefinite"/>
+    </linearGradient>
+  </defs>
+  <text font-family="'Courier New', monospace" font-size="16" fill="url(#scanline)" xml:space="preserve">
+    <tspan x="0" y="15">██╗      █████╗  ██╗   ██╗  █████╗   ██████╗  ██╗  ██╗</tspan>
+    <tspan x="0" y="35">██║     ██╔══██╗ ╚██╗ ██╔╝ ██╔═══██╗ ██╔══██╗ ╚██╗██╔╝</tspan>
+    <tspan x="0" y="55">██║     ███████║  ╚████╔╝  ██║   ██║ ██████╔╝  ╚███╔╝ </tspan>
+    <tspan x="0" y="75">██║     ██╔══██║   ╚██╔╝   ██║   ██║ ██╔══██╗  ██╔██╗ </tspan>
+    <tspan x="0" y="95">██████╗ ██║  ██║    ██║    ╚██████╔╝ ██║  ██╗ ██╔╝ ██╗</tspan>
+    <tspan x="0" y="115">╚═════╝ ╚═╝  ╚═╝    ╚═╝     ╚═════╝  ╚═╝  ╚═╝ ╚═╝  ╚═╝</tspan>
+  </text>
+</svg>

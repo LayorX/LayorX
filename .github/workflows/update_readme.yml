@@ -1,0 +1,28 @@
+name: Update README with Recent Activity
+
+on:
+  schedule:
+    # Runs approximately every 22 hours (at 22:00 UTC daily)
+    - cron: '0 22 * * *'
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Update-README-with-Activity
+    steps:
+      - uses: actions/checkout@v3
+      - uses: gautamkrishnar/github-activity-readme@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "chore: Update README with recent GitHub activity"
+          file_pattern: README.md
+          commit_user_name: "github-actions[bot]"
+          commit_user_email: "github-actions[bot]@users.noreply.github.com"
+          commit_author: "github-actions[bot] <github-actions[bot]@users.noreply.github.com>"

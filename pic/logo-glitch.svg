@@ -1,0 +1,19 @@
+<svg width="580" height="120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <g id="layorx-text">
+        <text font-family="'Courier New', monospace" font-size="16" fill="#D3D3D3" xml:space="preserve">
+            <tspan x="0" y="15">██╗      █████╗  ██╗   ██╗  █████╗   ██████╗  ██╗  ██╗</tspan>
+            <tspan x="0" y="35">██║     ██╔══██╗ ╚██╗ ██╔╝ ██╔═══██╗ ██╔══██╗ ╚██╗██╔╝</tspan>
+            <tspan x="0" y="55">██║     ███████║  ╚████╔╝  ██║   ██║ ██████╔╝  ╚███╔╝ </tspan>
+            <tspan x="0" y="75">██║     ██╔══██║   ╚██╔╝   ██║   ██║ ██╔══██╗  ██╔██╗ </tspan>
+            <tspan x="0" y="95">██████╗ ██║  ██║    ██║    ╚██████╔╝ ██║  ██╗ ██╔╝ ██╗</tspan>
+            <tspan x="0" y="115">╚═════╝ ╚═╝  ╚═╝    ╚═╝     ╚═════╝  ╚═╝  ╚═╝ ╚═╝  ╚═╝</tspan>
+        </text>
+    </g>
+    <clipPath id="clip1"><rect x="0" y="0" width="580" height="40"><animate attributeName="y" values="0; 60; 20; 0" dur="3s" repeatCount="indefinite" /></rect></clipPath>
+    <clipPath id="clip2"><rect x="0" y="30" width="580" height="50"><animate attributeName="y" values="0; -30; 40; 0" dur="4s" repeatCount="indefinite" /></rect></clipPath>
+  </defs>
+  <use href="#layorx-text" /> 
+  <use href="#layorx-text" clip-path="url(#clip1)" transform="translate(-3, 2)" fill="#E84A5F"/>
+  <use href="#layorx-text" clip-path="url(#clip2)" transform="translate(3, -2)" fill="#00A8E8"/>
+</svg>
