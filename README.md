@@ -55,11 +55,11 @@
 ### `Recent Activity`
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11559](https://github.com/google-gemini/gemini-cli/pull/11559#issuecomment-3484943080) in [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)
-2. 💪 Opened PR [#12523](undefined) in [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)
-3. 🗣 Commented on [#11559](https://github.com/google-gemini/gemini-cli/pull/11559#issuecomment-3483284375) in [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)
-4. 💪 Opened PR [#1](undefined) in [LayorX/threads-dlp](https://github.com/LayorX/threads-dlp)
-5. ❌ Reopened PR [#11559](undefined) in [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)
+1. 🗣 Commented on [#12587](https://github.com/google-gemini/gemini-cli/pull/12587#issuecomment-3492367509) in [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)
+2. 🗣 Commented on [#11559](https://github.com/google-gemini/gemini-cli/pull/11559#issuecomment-3492299831) in [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)
+3. 🗣 Commented on [#11559](https://github.com/google-gemini/gemini-cli/pull/11559#issuecomment-3484943080) in [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)
+4. 💪 Opened PR [#12523](undefined) in [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)
+5. 🗣 Commented on [#11559](https://github.com/google-gemini/gemini-cli/pull/11559#issuecomment-3483284375) in [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)
 <!--END_SECTION:activity-->
 
 ---
