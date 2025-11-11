@@ -32,7 +32,7 @@
 ### `GitHub Stats`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=layorx&show_icons=true&theme=synthwave" alt="LayorX's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=layorx&show_icons=true&theme=synthwave&count_private=true" alt="LayorX's GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=layorx&layout=compact&theme=synthwave" alt="LayorX's Top Languages"/>
 </p>
 <p align="center">
@@ -49,6 +49,14 @@
 | `Creative Sandbox` | A collection of simple, creative HTML concepts. | [show.zeabur.app](https://show.zeabur.app) |
 | `Project: GoddeSpark` | An AI-powered image generation and sharing platform. | [goddespark.netlify.app](https://goddespark.netlify.app) |
 | `GGPoker Hand Analyzer` | A free, privacy-focused web analyzer for GGPoker hand histories, providing key stats and data visualization as a lightweight alternative to professional tracking software. | [ggpokerAnalyzer](https://layorx.github.io/ggpokerAnalyzer/index.html) |
+
+---
+
+### `Trophies`
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=layorx&theme=synthwave&row=1" alt="LayorX's Trophies"/>
+</p>
 
 ---
 
