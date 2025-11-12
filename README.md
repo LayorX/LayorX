@@ -63,11 +63,11 @@
 ### `Recent Activity`
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0.3 - Docker Local & PyPI Release](https://github.com/LayorX/threads-dlp/releases/tag/v1.0.3) in [LayorX/threads-dlp](https://github.com/LayorX/threads-dlp)
-2. 🔒 Closed issue [#4](https://github.com/LayorX/threads-dlp/issues/4) in [LayorX/threads-dlp](https://github.com/LayorX/threads-dlp)
-3. ❗ Opened issue [#5](https://github.com/LayorX/threads-dlp/issues/5) in [LayorX/threads-dlp](https://github.com/LayorX/threads-dlp)
-4. ❗ Opened issue [#4](https://github.com/LayorX/threads-dlp/issues/4) in [LayorX/threads-dlp](https://github.com/LayorX/threads-dlp)
-5. 💪 Opened PR [#3](undefined) in [LayorX/threads-dlp](https://github.com/LayorX/threads-dlp)
+1. 🗣 Commented on [#12523](https://github.com/google-gemini/gemini-cli/pull/12523#issuecomment-3519618650) in [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)
+2. ❗ Opened issue [#6](https://github.com/LayorX/threads-dlp/issues/6) in [LayorX/threads-dlp](https://github.com/LayorX/threads-dlp)
+3. 🚀 Published release [v1.0.3 - Docker Local & PyPI Release](https://github.com/LayorX/threads-dlp/releases/tag/v1.0.3) in [LayorX/threads-dlp](https://github.com/LayorX/threads-dlp)
+4. 🔒 Closed issue [#4](https://github.com/LayorX/threads-dlp/issues/4) in [LayorX/threads-dlp](https://github.com/LayorX/threads-dlp)
+5. ❗ Opened issue [#5](https://github.com/LayorX/threads-dlp/issues/5) in [LayorX/threads-dlp](https://github.com/LayorX/threads-dlp)
 <!--END_SECTION:activity-->
 
 ---
