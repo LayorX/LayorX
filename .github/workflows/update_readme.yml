@@ -15,8 +15,6 @@ jobs:
       - uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          MAX_LINES: 10
       - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
@@ -25,3 +23,4 @@ jobs:
           commit_user_name: "github-actions[bot]"
           commit_user_email: "github-actions[bot]@users.noreply.github.com"
           commit_author: "github-actions[bot] <github-actions[bot]@users.noreply.github.com>"
+          MAX_LINES: 10
