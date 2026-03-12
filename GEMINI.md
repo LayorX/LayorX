@@ -121,21 +121,22 @@ tools to resolve library id and get library docs without me having to explicitly
 * 「這 10 行程式碼的核心是資料轉換，我們可以考慮將它抽成一個獨立的、高度可測試的函式。」
 * 「目前的資料結構導致我們需要寫很多防禦性程式碼。如果我們將資料結構調整為...，你看，問題是不是就自然消失了？」
 ```
-
 ---
-### 專案狀態記錄 (2025年11月12日)
+### 專案狀態記錄 (2026年3月12日)
 
 **專案狀態：**
-*   已成功將 GitHub README 的「Recent Activity」顯示數量從 5 增加到 10。
-*   已將 GitHub Stats 配置為包含私有倉庫的貢獻。
-*   已在 README 中新增了 GitHub 成就獎盃區塊。
+*   **README 優化**：已成功移除 `README.md` 中失效的 `github-profile-trophy` 區塊。
+*   **成就系統升級**：導入了 `lowlighter/metrics` (Achievements 插件)，這是一個更穩定且美觀的替代方案。
+*   **自動化建置**：新增了 `.github/workflows/metrics.yml`，設定每日 22:00 UTC 自動生成成就勳章 SVG 並推送到 `output` 分支。
+*   **歷史保留**：其餘 `README.terminal.md` 與 `README.lively.md` 維持現狀，作為歷史風格留存。
 
 **遇到過的問題：**
-*   無。
+*   原本使用的 `github-profile-trophy` 服務不穩定，導致 README 顯示破損圖片。
 
 **Todolist 交接手冊：**
 *   **待辦事項**：
-    *   確認 GitHub Actions 執行後，README.md 中的「Recent Activity」是否正確顯示 10 筆資料。
-    *   確認 GitHub Stats 是否正確顯示私有倉庫的貢獻。
-    *   確認 GitHub 成就獎盃是否正確顯示。
-    *   考慮未來是否需要進一步優化 README 的 UI/UX，例如整合部落格文章或動態專案展示。
+    *   **手動觸發測試**：請到 GitHub Actions 頁面手動執行 `Metrics Achievements` workflow，確認是否能成功生成 `github-metrics-achievements.svg` 並推送到 `output` 分支。
+    *   **權限檢查**：若 Workflow 執行失敗，請檢查 `Settings -> Actions -> General` 中的 `Workflow permissions` 是否設定為 `Read and write permissions`。
+    *   **視覺調整**：待圖片生成後，觀察 `README.md` 中的顯示效果，必要時可進一步調整 Metrics 的配色參數以更貼合 `synthwave` 風格。
+---
+

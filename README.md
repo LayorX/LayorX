@@ -52,10 +52,10 @@
 
 ---
 
-### `Trophies`
+### `Achievements`
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=layorx&theme=synthwave&row=1" alt="LayorX's Trophies"/>
+  <img src="https://raw.githubusercontent.com/LayorX/LayorX/output/github-metrics-achievements.svg" alt="LayorX's Achievements"/>
 </p>
 
 ---
