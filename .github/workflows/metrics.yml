@@ -2,7 +2,7 @@ name: Metrics Achievements
 
 on:
   schedule:
-    - cron: "0 22 * * *" # Runs daily at 22:00 UTC
+    - cron: "0 22 * * *"
   workflow_dispatch:
 
 jobs:
@@ -14,26 +14,27 @@ jobs:
       - name: Achievements Metrics
         uses: lowlighter/metrics@latest
         with:
-          # 使用 GitHub Token 生成並提交
+          # Token 設定
           token: ${{ secrets.GITHUB_TOKEN }}
           
           # 基本設定
           user: ${{ github.repository_owner }}
           template: classic
-          base: "" # 我們只需要成就，不包含基本數據
+          base: header # 加入最基本的 Header 資訊，增加穩定性
           filename: github-metrics-achievements.svg
           
-          # 成就插件配置
+          # 成就插件 (簡化版，確保不噴錯)
           plugin_achievements: yes
           plugin_achievements_display: detailed
-          plugin_achievements_secrets: yes
-          plugin_achievements_threshold: C
           
-          # 內建提交與推送功能 (取代原本的 ghaction-github-pages)
+          # 內建推送
           output_action: commit
           committer_branch: output
           committer_message: "chore: update achievements metrics"
           
-          # 時區與排序
+          # 全域設定
           config_timezone: Asia/Taipei
           config_order: achievements
+          
+          # 除錯模式 (萬一失敗可以看到更多資訊)
+          debug: yes
